@@ -13,4 +13,5 @@
 >When built on more relevant and company wise segregated data with a enhanced pipeline can pave new ways of predicting high performing market leaders.
 >Sky’s the limit for the amount of improvements, diversion the current model can bring upon.
 ###### Demo : 
+https://user-images.githubusercontent.com/11675535/136581293-daade973-c5db-4683-b992-a8ae3b26fe4f.mov
 

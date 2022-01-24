@@ -1,5 +1,5 @@
 # ESG_ScoreGenerator_NLP
-## HackDFW Goldaman Sachs Challenge
+## HackDFW Challenge
 ###### Problem Statement : 
 >“Environmental, Social, and Corporate Governance (ESG) is an evaluation of a firm’s collective conscientiousness for social and environmental factors.”
 ###### What are we trying to solve?
